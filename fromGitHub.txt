@@ -1,0 +1,4 @@
+this is a file added directly from Github.com
+And now i am about to commit directly to github.com remote repo
+this is not something we would do normally
+we are just trying to simulate a situation where local repo is behind remote (useful for project collab when other ppl have pushed commits u dont have)
